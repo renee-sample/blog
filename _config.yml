@@ -18,7 +18,7 @@ email: renee13wi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Renee Test Blog Description
 baseurl: "/test.blog/" # the subpath of your site, e.g. /blog
-url: "https://renee-sample.github.io/test.blog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://renee-sample.github.io/test.blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Renee
 github_username:  Renee
 
