@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Renee
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Renee Test Blog'
 url:              https://renee-sample.github.io/test.blog/
 baseurl:          /test.blog/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Renee'
+  url:            http://renee13wi.cafe24.com/html/main.php
 
 paginate:         5
 
